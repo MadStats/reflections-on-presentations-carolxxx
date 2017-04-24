@@ -42,3 +42,34 @@ What were aspects of the presentation that you liked: Food Inspection! And the c
 What were aspects of the presentations for which you had concerns or questions: If the last 30 days are kind of short?
 
 
+
+Title of presentation:LOL Game
+
+What were aspects of the presentation that you liked:Slide is great. Introduction to the background information of the game. Scaling variables by time is good.
+
+What were aspects of the presentations for which you had concerns or questions: Actually I am not familiar with the game, I don't understand the explanation of some factors and classes.
+
+
+
+Title of presentation: H1B
+
+What were aspects of the presentation that you liked: The plots are beautiful.
+
+What were aspects of the presentations for which you had concerns or questions: The internal reasons for clusters can be explored.
+
+
+
+
+Title of presentation:Traffic
+
+What were aspects of the presentation that you liked: log transformation for predictors.
+
+What were aspects of the presentations for which you had concerns or questions: Is average of previous and next years for NA reasonable?
+
+
+
+Title of presentation: Songs
+
+What were aspects of the presentation that you liked: The topic is very interesing. 
+
+What were aspects of the presentations for which you had concerns or questions:
