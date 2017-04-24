@@ -86,6 +86,6 @@ What were aspects of the presentations for which you had concerns or questions: 
 
 Title of presentation: Terrorism
 
-What were aspects of the presentation that you liked: 
+What were aspects of the presentation that you liked: Animation part. Decision tree.
 
-What were aspects of the presentations for which you had concerns or questions:
+What were aspects of the presentations for which you had concerns or questions: 
