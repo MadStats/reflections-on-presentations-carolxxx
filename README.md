@@ -70,6 +70,22 @@ What were aspects of the presentations for which you had concerns or questions: 
 
 Title of presentation: Songs
 
-What were aspects of the presentation that you liked: The topic is very interesing. 
+What were aspects of the presentation that you liked: The topic is very interesing. Sentiment trend of songs.
+
+What were aspects of the presentations for which you had concerns or questions: less positive and more negative? What's the meaning of scores of songs? Are rhymes correlated with sentiments? 
+
+
+
+Title of presentation: NBA
+
+What were aspects of the presentation that you liked: Detailed analyses and players. Heat maps are cool.
+
+What were aspects of the presentations for which you had concerns or questions: Just a personal wish. Because I am not familiar with basketball I want some explanations for professional words. 
+
+
+
+Title of presentation: Terrorism
+
+What were aspects of the presentation that you liked: 
 
 What were aspects of the presentations for which you had concerns or questions:
